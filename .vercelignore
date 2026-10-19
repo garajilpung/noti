@@ -1,0 +1,13 @@
+.env*
+.local/
+.agents/
+.claude/
+.git/
+node_modules/
+.next/
+test-results/
+playwright-report/
+*.tsbuildinfo
+output/
+.codex-pptx-build/
+docs/RPD.md
